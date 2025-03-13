@@ -1,0 +1,9 @@
+[project]
+name = "multi-agent-testing"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fpdf>=1.7.2",
+]
